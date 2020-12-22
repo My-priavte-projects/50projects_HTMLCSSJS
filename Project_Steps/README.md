@@ -1,2 +1,2 @@
-#Project Steps
+# Project Steps
 ![](screen-capture.gif)
